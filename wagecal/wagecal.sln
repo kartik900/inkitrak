@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wagecal", "wagecal\wagecal.csproj", "{BAFE96E9-1CDA-4113-B146-A1A3272E4BEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAFE96E9-1CDA-4113-B146-A1A3272E4BEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAFE96E9-1CDA-4113-B146-A1A3272E4BEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAFE96E9-1CDA-4113-B146-A1A3272E4BEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAFE96E9-1CDA-4113-B146-A1A3272E4BEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1DB38C5-5A46-4D0E-87A7-D492BBBE2400}
+	EndGlobalSection
+EndGlobal
